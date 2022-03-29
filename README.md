@@ -1,3 +1,3 @@
-# angular-10-facebook-login-example
+# angular-facebook-login
 
-Angular - Facebook Login Example
+Angular - Facebook Login
